@@ -1,0 +1,9 @@
+@font-face {
+  font-family: labyek;
+  src: url("../fonts/Cairo-Black_1.ttf") format("truetype"),
+    url("../fonts/Cairo-Bold_1.ttf") format("truetype"),
+    url("../fonts/Cairo-ExtraLight_1.ttf") format("truetype"),
+    url("../fonts/Cairo-Light_1.ttf") format("truetype"),
+    url("../fonts/Cairo-Regular_2.ttf") format("truetype"),
+    url("../fonts/Cairo-SemiBold_1.ttf") format("truetype");
+}
